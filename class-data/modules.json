@@ -1,0 +1,73 @@
+[
+  {
+    "number": 0,
+    "name": "precourse",
+    "status": "in progress"
+  },
+  {
+    "number": 1,
+    "name": "working-with-code",
+    "status": "to do",
+    "board": 1
+  },
+  {
+    "number": 2,
+    "name": "debugging",
+    "status": "to do",
+    "board": 2
+  },
+  {
+    "number": 3,
+    "name": "testing",
+    "status": "to do",
+    "board": 3
+  },
+  {
+    "number": 4,
+    "name": "separation-of-concerns",
+    "status": "to do",
+    "board": 4
+  },
+  {
+    "number": 5,
+    "name": "state",
+    "status": "to do",
+    "board": 5
+  },
+  {
+    "number": 6,
+    "name": "encapsulation",
+    "status": "to do",
+    "board": 6
+  },
+  {
+    "number": 7,
+    "name": "asynchronous-programming",
+    "status": "to do",
+    "board": 7
+  },
+  {
+    "number": 8,
+    "name": "web-apps",
+    "status": "to do",
+    "board": 8
+  },
+  {
+    "number": 9,
+    "name": "data-modeling",
+    "status": "to do",
+    "board": 9
+  },
+  {
+    "number": 10,
+    "name": "frontend-frameworks",
+    "status": "to do",
+    "board": 10
+  },
+  {
+    "number": 11,
+    "name": "agile-development",
+    "status": "to do",
+    "board": 11
+  }
+]

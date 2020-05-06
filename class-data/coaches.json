@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Octo Cat",
+    "userName": "octocat",
+    "modules": [
+      2,
+      4,
+      "working-with-code"
+    ]
+  },
+  {
+    "name": "HYF Be",
+    "userName": "HackYourFutureBelgium",
+    "modules": [
+      "incremental-development",
+      0
+    ]
+  }
+]
