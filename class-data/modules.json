@@ -2,78 +2,91 @@
   {
     "number": 0,
     "name": "precourse",
-    "status": "in progress"
+    "status": "in progress",
+    "weeks": 1
   },
   {
     "number": 1,
     "name": "working-with-code",
     "status": "in progress",
-    "board": 1
+    "board": 1,
+    "weeks": 3
   },
   {
     "number": 2,
     "name": "incremental-development",
     "status": "to do",
-    "board": 2
+    "board": 2,
+    "weeks": 3
   },
   {
     "number": 3,
     "name": "debugging",
     "status": "to do",
-    "board": 3
+    "board": 3,
+    "weeks": 2
   },
   {
     "number": 4,
     "name": "testing",
     "status": "to do",
-    "board": 4
+    "board": 4,
+    "weeks": 3
   },
   {
     "number": 5,
     "name": "separation-of-concerns",
     "status": "to do",
-    "board": 5
+    "board": 5,
+    "weeks": 3
   },
   {
     "number": 6,
     "name": "state",
     "status": "to do",
-    "board": 6
+    "board": 6,
+    "weeks": 2
   },
   {
     "number": 7,
     "name": "encapsulation",
     "status": "to do",
-    "board": 7
+    "board": 7,
+    "weeks": 3
   },
   {
     "number": 8,
     "name": "asynchronous-programming",
     "status": "to do",
-    "board": 8
+    "board": 8,
+    "weeks": 3
   },
   {
     "number": 9,
     "name": "web-apps",
     "status": "to do",
-    "board": 9
+    "board": 9,
+    "weeks": 4
   },
   {
     "number": 10,
     "name": "data-modeling",
     "status": "to do",
-    "board": 10
+    "board": 10,
+    "weeks": 2
   },
   {
     "number": 11,
     "name": "frontend-frameworks",
     "status": "to do",
-    "board": 11
+    "board": 11,
+    "weeks": 2
   },
   {
     "number": 12,
     "name": "agile-development",
     "status": "to do",
-    "board": 12
+    "board": 12,
+    "weeks": 6
   }
 ]
