@@ -7,19 +7,11 @@ assignees: ''
 
 ---
 
-> !:warning:! Replace `your-user-name` with your actual GitHub user name in the last three assignments !:warning:!
+> !:warning:! Replace `your-user-name` with your actual GitHub user name and `repo-name` with the name of your class repo !:warning:!
 
-- [ ] (computer) Software Installations
-  - [ ] [Chromium](https://download-chromium.appspot.com/), [Firefox](https://www.mozilla.org/en-US/firefox/developer/) or [Brave](https://brave.com/download/): All great browsers with ES6, HTML5 & CSS3 support plus pre-installed, top-knotch developer tools.  Try each one to see what you like best!
-  - [ ] [Visual Studio Code](https://code.visualstudio.com/download): Like Microsoft Word, but for code ...  and _sooooo_ much better.  After installing VSC, be sure to install these plug-ins:
-    - [ ] [Markdown Preview Github Styling Custom](https://marketplace.visualstudio.com/items?itemName=dmodalek.markdown-preview-github-styles-custom)
-    - [ ] [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-    - [ ] [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#overview)
-  - [ ] [GitKraken](https://www.gitkraken.com/download): A program that will help you master using git.
-  - [ ] (If you have windows) [Git For Windows](https://gitforwindows.org/): This will allow you to use the same terminal commands & tools as Linux or Mac computers.
-  - [ ] Download Slack and log into HYF Be
-- [ ] (computer) Start an HYF Directory
-- [ ] Learnables Project Board
-- [ ] [My bio on the class repo](https://github.com/hackyourfuturebelgium/class-7/blob/master/student-bios/your-user-name.md)
-- [ ] [Hack My Future](https://github.com/your-user-name/hack-my-future)
-- [ ] [Markdown Home Page](https://your-user-name.github.io) - my multi-page markdown home portfolio, live on github pages
+- [ ] :egg: Started my HYF Directory
+- [ ] :egg: _First Week on GitHub_
+- [ ] :egg: [My student bio](https://github.com/hackyourfuturebelgium/repo-name/tree/master/student-bios/your-user-name.md)
+- [ ] :egg: [my `hack-my-future` repo](https://github.com/your-user-name/hack-my-future)
+- [ ] :egg: my markdown home page: [Live](https://your-user-name.github.io), [Source](https://github.com/your-user-name.github.io)
+- [ ] :egg: [My _Learnables_ Project Board](https://github.com/users/your-user-name/projects/1)
