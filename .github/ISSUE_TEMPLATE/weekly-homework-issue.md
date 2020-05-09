@@ -50,15 +50,17 @@ assignees: ''
 
 #### Exercises: Isolate
 
-- [ ] exercise name: [repo](https://github.com/your-user-name/exercise-name), [live](https://your-user-name.github.io/exercise-name/)
+- [ ] `:emoji:` exercise 1: [repo](https://github.com/your-user-name/exercise-name), [live](https://your-user-name.github.io/exercise-name/)
+- [ ] `:emoji:` exercise ...: [repo](https://github.com/your-user-name/exercise-name), [live](https://your-user-name.github.io/exercise-name/)
 
 #### Exercises: Integrate
 
-- [ ] exercise name: [repo](https://github.com/your-user-name/exercise-name), [live](https://your-user-name.github.io/exercise-name/)
+- [ ] `:emoji:` exercise 1: [repo](https://github.com/your-user-name/exercise-name), [live](https://your-user-name.github.io/exercise-name/)
+- [ ] `:emoji:` exercise ...: [repo](https://github.com/your-user-name/exercise-name), [live](https://your-user-name.github.io/exercise-name/)
 
 ### Project
 
-project name:
+`:emoji:` project name:
 
 - [ ] [repo](https://github.com/user-name/project-name)
 - [ ] [live](https://user-name.github.io/project-name)
