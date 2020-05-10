@@ -9,6 +9,7 @@ assignees: ''
 
 > !:warning:! Replace `your-user-name` with your actual GitHub user name and `repo-name` with the name of your class repo !:warning:!
 
+- [ ] :egg: [Group Intro Repo](https://github.com/your-user-name/group-intro)
 - [ ] :egg: Started my HYF Directory
 - [ ] :egg: _First Week on GitHub_
 - [ ] :egg: [My student bio](https://github.com/hackyourfuturebelgium/repo-name/tree/master/student-bios/your-user-name.md)
