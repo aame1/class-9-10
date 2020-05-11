@@ -1,7 +1,7 @@
 # feruz-bios
 My short biography
 
-![first](https://user-images.githubusercontent.com/59234162/81520272-2077c200-9344-11ea-948b-7f1fe1e741bc.jpg)
+(i can not put picture becouse it is too big)
 ____
 My name is Feruz :smile:. I came from Eritrea.I live in kortrijk since 2018. I graduated in **soil science** And i need to be good developer.
 
