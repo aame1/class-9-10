@@ -26,7 +26,8 @@ Master's Degree in Computer Science (MSCS) – Khartoum University.
 
 - Book reading
 - Working with computer
--Traveling
+- Traveling
+
 
 <br/>
 <br/>
