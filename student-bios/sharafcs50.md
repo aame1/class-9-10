@@ -1,6 +1,8 @@
 # Student Bio
 
-## Sharaf (Class-9)  <img src="https://avatars3.githubusercontent.com/u/60271901?s=460&u=ef3c4b1fa5c2de69cffc264bdc48d9c98536cff3&v=4" alt="Sharaf-Image" height="80" width="80"/>
+## Sharaf (Class-9)
+
+![Sharaf-Image](https://user-images.githubusercontent.com/60271901/81574144-b859c800-93a5-11ea-9a9c-8de2f65a9c06.PNG)
 
 ### About Me
 
