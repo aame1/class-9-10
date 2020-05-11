@@ -4,4 +4,6 @@ my name is Gelila. Born And Raised In Addis Ababa, Ethiopia. Aspire To Be A Fron
 My hobbies include reading, going to movies and visiting Museums.
 
 I'm exited to be part of HYF and can't wait to learn more.
-![Gelilaa](https://octodex.github.com/images/bannekat.png)
+
+## cheers!!
+![](https://user-images.githubusercontent.com/62214717/81563897-395d9300-9397-11ea-96d1-74aef6e3a6cf.jpg)
