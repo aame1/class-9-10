@@ -17,10 +17,11 @@ I have a general knowledge about programming.
  
  html|css|javascript
  ---|----|-------
- 90%|90%|50%
+ 90%|90%| basic
 
 ____
 I like strewberry and tea. :strawberry::tea:	
+
 [More about Me](https://feruzteame.github.io/Feruz-Teame.bio/index.html) :point_left:
 
 ____
