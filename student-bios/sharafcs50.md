@@ -12,5 +12,5 @@ I am friendly in nature and I am a team player (living in many countries in diff
 I like walking and trading (forex) for a hobby.
 
 ---
-
+[My Github Account](http://www.github.com/sharafcs50)
 _Glad to be a part of the HYF community. I hope I can contribute and give back in some way._
