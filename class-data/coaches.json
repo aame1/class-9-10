@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "name": "Tiago Mendes-Costa",
+    "userName": "otagi",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "lead"
+      },
+      {
+        "repoName": "incremental-development",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Stéphane Nicoll",
+    "userName": "snicoll",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "lead"
+      },
+      {
+        "repoName": "incremental-development",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Ibrahim Dogrusoz",
+    "userName": "idogrusoz",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Akbel Hanim",
+    "userName": "akbelcolak",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Yavuz Ugurtas",
+    "userName": "yavuzugurtas",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Ibrahim Akadar",
+    "userName": "akadarakku",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Evan Cole",
+    "userName": "colevandersWands",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Joel Camacho",
+    "userName": "JoeCamacho",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Mert Demirok",
+    "userName": "mert1980",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Ufuk Uysal",
+    "userName": "u-uysal",
+    "modules": [
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      }
+    ]
+  }
+]
