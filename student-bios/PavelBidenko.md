@@ -42,7 +42,7 @@ And of course, I wish you good health, good luck and happiness!
 <br>
 
 ---
-##### 2020 #HackYourFuture student's bio | [`Me on github `](http://pavelbidenko2018/github.com)
+##### 2020 #HackYourFuture student's bio | [`Me on github `](https://github.com/pavelbidenko2018)
 
 
 
