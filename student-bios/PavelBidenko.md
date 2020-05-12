@@ -32,7 +32,7 @@ As to my experience in IT, I've got some certain knoweledges in Java and data ba
  #### Wishes & desires
 --- 
 To my mind it is not a great task to learn coding basics. Almost everybody can master it.  
-My wish is to get a good experience in close-to-life and real tasks development - modern frameworks and API-s, pair and team co-working, i.e. how do they develop in the software companiens ;)  
+My wish is to get a good experience in close-to-life and real tasks development - modern frameworks and API-s, pair and team co-working, i.e. how do they develop in the software companiens :wink:  
 
 And of course, I wish you good health, good luck and happiness!
 
