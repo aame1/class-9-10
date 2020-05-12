@@ -6,7 +6,7 @@
 I am from Russia  and now live in Belgium, Brussels.
 I am 33 years old and married.
 
-I have a degree in a social psychology and now I want to trying myself in new world web-development.
+I have a degree in a social psychology and now I want to trying myself in *new world web-development*.
 
 ![Olga's photo][photo]
 
@@ -20,7 +20,7 @@ I have a degree in a social psychology and now I want to trying myself in new wo
 * walking in the beautiful forests and parks
 * watching the good films and serials
 
-And most of all I love conversations with my family and friends :coffee: (or :wine_glass:)
+And most of all I love **conversations** with my family and friends :coffee: (or :wine_glass:)
 
 ---
 
