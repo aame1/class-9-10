@@ -10,7 +10,7 @@ I spent my last 15 years commuting in Brussels, and still counting. :joy:
 
 At HYF, i'm trying to **commit** part of my time to learning something new and hopefully boost my career. 
 
-Nice too meet you! 
+Nice too meet you! :)
 
 
 
