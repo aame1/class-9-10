@@ -20,5 +20,3 @@ If I can get up this mountain, I can do anything!
 ![Meowntain](https://i.imgur.com/2thgQW8.jpg)
 
 Ps. I am married to my best friend and __Halloween is the BEST__
-
-[![Back](https://i.imgur.com/YOI6zzp.png)](./README.md)
